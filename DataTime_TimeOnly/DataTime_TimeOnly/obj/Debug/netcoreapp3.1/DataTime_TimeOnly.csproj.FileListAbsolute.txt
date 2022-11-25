@@ -1,0 +1,14 @@
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\bin\Debug\netcoreapp3.1\DataTime_TimeOnly.exe
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\bin\Debug\netcoreapp3.1\DataTime_TimeOnly.deps.json
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\bin\Debug\netcoreapp3.1\DataTime_TimeOnly.runtimeconfig.json
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\bin\Debug\netcoreapp3.1\DataTime_TimeOnly.runtimeconfig.dev.json
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\bin\Debug\netcoreapp3.1\DataTime_TimeOnly.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\bin\Debug\netcoreapp3.1\DataTime_TimeOnly.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\obj\Debug\netcoreapp3.1\DataTime_TimeOnly.csproj.AssemblyReference.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\obj\Debug\netcoreapp3.1\DataTime_TimeOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\obj\Debug\netcoreapp3.1\DataTime_TimeOnly.AssemblyInfoInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\obj\Debug\netcoreapp3.1\DataTime_TimeOnly.AssemblyInfo.cs
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\obj\Debug\netcoreapp3.1\DataTime_TimeOnly.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\obj\Debug\netcoreapp3.1\DataTime_TimeOnly.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\obj\Debug\netcoreapp3.1\DataTime_TimeOnly.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\DataTime_TimeOnly\DataTime_TimeOnly\obj\Debug\netcoreapp3.1\DataTime_TimeOnly.genruntimeconfig.cache
